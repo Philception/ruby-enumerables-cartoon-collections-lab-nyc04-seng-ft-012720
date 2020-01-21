@@ -39,4 +39,4 @@ def find_the_cheese# code an argument here
   end
 end
 
-find_the_cheese(potentially_cheesy_items)
+find_the_cheese(cheesy_foods_or_not)
