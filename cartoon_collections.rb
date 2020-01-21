@@ -32,7 +32,7 @@ long_planeteer_calls(planeteer_calls)
 
 cheesy_foods_or_not= %w[gouda cat cheddar dog]
 
-def find_the_cheese(cheese_types)
+def find_the_cheese(cheesy_foods_or_not)
   # code an argument here
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
