@@ -1,3 +1,14 @@
+dwarves = %w[
+  Sneezy
+  Sleepy
+  Happy
+  Dopey
+  Bashful
+  Grumpy
+  Doc
+]
+
+
 def roll_call_dwarves# code an argument here
   # Your code here
 end
